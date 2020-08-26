@@ -37,4 +37,3 @@ if(path == True):
     test = subprocess.Popen("ls",cwd=args.P)
     pop = test.communicate()
 
-    print("ADSFASDFASD",pop,pop)
